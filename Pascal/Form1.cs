@@ -22,6 +22,7 @@ namespace Pascal
                     button.Height = n;
                     int x = Faktoriális(sor) / (Faktoriális(oszlop) * Faktoriális(sor - oszlop));
                     button.Text = x.ToString();
+                    // csak irok ide hogy megnezzem a commitot:)
                 }
             }
         }
