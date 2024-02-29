@@ -12,8 +12,8 @@ namespace randomGombok
             for (int i = 0; i < 101; i++)
             {
                 Button button = new Button();
-                button.Left = rnd.Next(1, 10);
-                button.Top = rnd.Next(1, 10);
+                button.Left = rnd.Next(1, ClientRectangle.Width);
+                button.Top = rnd.Next(1, ClientRectangle.Height);
                 button.Width = rnd.Next(1, 10);
                 button.Height = rnd.Next(1, 10);
                 button.BackColor = Color.FromArgb(rnd.Next(1, 256), rnd.Next(1, 256), rnd.Next(1, 256));
