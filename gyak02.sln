@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzamoloGomb", "SzamoloGomb\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "randomGombok", "randomGombok\randomGombok.csproj", "{60634301-F004-4227-887C-B069C44C253D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamologep", "szamologep\szamologep.csproj", "{FC0BB3D3-7EB6-4FD6-B2D9-EF4822598760}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "szamologep", "szamologep\szamologep.csproj", "{FC0BB3D3-7EB6-4FD6-B2D9-EF4822598760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajosKviz", "HajosKviz\HajosKviz.csproj", "{6045B46B-8457-4568-8AE4-0FEE9FCD5424}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{FC0BB3D3-7EB6-4FD6-B2D9-EF4822598760}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC0BB3D3-7EB6-4FD6-B2D9-EF4822598760}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC0BB3D3-7EB6-4FD6-B2D9-EF4822598760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6045B46B-8457-4568-8AE4-0FEE9FCD5424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6045B46B-8457-4568-8AE4-0FEE9FCD5424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6045B46B-8457-4568-8AE4-0FEE9FCD5424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6045B46B-8457-4568-8AE4-0FEE9FCD5424}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
